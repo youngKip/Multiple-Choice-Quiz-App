@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Multiple Choice QuizApp</string>
+    <string name="questionText">Here will be the question text\nHere will be the question text\nHere will be the question text</string>
+</resources>
